@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="heal_n_fun.helppage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:heal_n_fun"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid Background="#FF2C2929">
+        <Image x:ConnectionId='1' x:Name="image" HorizontalAlignment="Center" Height="640px" VerticalAlignment="Center" Width="360px" Source="Assets/helppage.PNG"/>
+        <Button x:ConnectionId='2' x:Name="button" Content=" " HorizontalAlignment="Center" Height="75" Margin="5,560,5,5" VerticalAlignment="Center" Width="350" Opacity="0"                     />
+
+    </Grid>
+</Page>
+

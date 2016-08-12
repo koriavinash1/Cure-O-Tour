@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="heal_n_fun.Doctorlogin"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:heal_n_fun"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF2C2929">
+        <Image x:ConnectionId='1' x:Name="image" HorizontalAlignment="Center" Height="655px" Margin="0,-15,0,0" VerticalAlignment="Center" Width="360px" Source="Assets/doctor.PNG"/>
+        <TextBox x:ConnectionId='2' x:Name="textBox" Margin="25,355,15,250" TextWrapping="NoWrap" Text="Username or Email" BorderBrush="#FFFBFBFB" Opacity="0.45" AllowDrop="True" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" HorizontalAlignment="Center" Width="320"/>
+        <PasswordBox x:ConnectionId='3' x:Name="passwordBox" Margin="25,405,15,200" BorderBrush="#FFFBFBFB" Opacity="0.45" Password="" PlaceholderText="Password" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" HorizontalAlignment="Center" Width="320"/>
+        <Button x:ConnectionId='4' x:Name="button" Content="" HorizontalAlignment="Center" Height="35" Margin="30,460,215,145" VerticalAlignment="Center" Width="115" Opacity="0"/>
+        <Button x:ConnectionId='5' x:Name="button1" Content="" HorizontalAlignment="Center" Height="35" Margin="230,460,20,145" VerticalAlignment="Center" Width="110" Opacity="0"/>
+        <Button x:ConnectionId='6' x:Name="button2" Content=" " HorizontalAlignment="Center" Height="50" Margin="10,15,290,575" VerticalAlignment="Center" Width="60" Opacity="0"                      />
+        <Image x:ConnectionId='7' x:Name="image1" HorizontalAlignment="Center" Height="160" Margin="115,150,115,330" VerticalAlignment="Center" Width="130"/>
+
+    </Grid>
+</Page>
+

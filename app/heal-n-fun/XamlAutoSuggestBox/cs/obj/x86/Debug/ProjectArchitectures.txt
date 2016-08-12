@@ -1,0 +1,1 @@
+C:\Users\avinash g kori\Downloads\Windows-universal-samples-master\Windows-universal-samples-master\Samples\XamlAutoSuggestBox\cs\AutoSuggestBox.csproj;x86

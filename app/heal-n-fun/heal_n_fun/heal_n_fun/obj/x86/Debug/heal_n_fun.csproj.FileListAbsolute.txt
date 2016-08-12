@@ -1,0 +1,1175 @@
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\ApplicationInsights.config
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\App.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\MainPage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.xr.xml
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.exe
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.pdb
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\resources.pri
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\AppxManifest.xml
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Core\AppxManifest.xml
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Core\heal_n_fun.exe
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.build.appxrecipe
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.CSharp.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Core.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Windows.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.Linq.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.Serialization.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.AppContext.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Immutable.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Specialized.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Data.Common.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.Compression.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\ClrCompression.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.FileSystem.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Expressions.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Parallel.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Queryable.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Http.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Primitives.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Requests.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Sockets.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ObjectModel.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.Networking.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.Uri.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Context.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Handles.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Security.Claims.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Security.Principal.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Timer.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XDocument.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\App.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\App.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\App.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\App.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.exe
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.pdb
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\ResourceHandlingTask.state
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\priconfig.xml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\priconfig.xml.intermediate
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\layout.resfiles
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\layout.resfiles.intermediate
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\resources.resfiles
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\resources.resfiles.intermediate
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\pri.resfiles
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\pri.resfiles.intermediate
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\qualifiers.txt
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\ProjectArchitectures.txt
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\loginas.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\loginoptions.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Developerlogin.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Doctorlogin.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Facilitatorlogin.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\Patientlogin.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\mainpage1.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\reason.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\homepage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\patientside.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\helppage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\settingspage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\tipspage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\patientprofile.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\email.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\email.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\email.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\email.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\contactus.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\email.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.csprojResolveAssemblyReference.cache
+F:\Cprojects\heal_n_fun\heal_n_fun\bin\x86\Debug\BlankPage1.xbf
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\BlankPage1.g.i.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\BlankPage1.g.cs
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\BlankPage1.xaml
+F:\Cprojects\heal_n_fun\heal_n_fun\obj\x86\Debug\BlankPage1.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\ApplicationInsights.config
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\App.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\contactus.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Developerlogin.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Doctorlogin.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\email.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Facilitatorlogin.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\helppage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\homepage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\loginas.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\loginoptions.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\MainPage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\mainpage1.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Patientlogin.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\patientprofile.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\patientside.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\reason.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\settingspage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\tipspage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.xr.xml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.exe
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.pdb
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\resources.pri
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\AppxManifest.xml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Core\AppxManifest.xml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Core\heal_n_fun.exe
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.build.appxrecipe
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.CSharp.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Core.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Windows.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.Linq.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.Serialization.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.AppContext.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Immutable.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Specialized.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Data.Common.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.Compression.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\ClrCompression.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.FileSystem.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Expressions.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Parallel.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Queryable.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Http.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Primitives.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Requests.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Sockets.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ObjectModel.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.Networking.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.Uri.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Context.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Handles.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Security.Claims.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Security.Principal.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Timer.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XDocument.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.csprojResolveAssemblyReference.cache
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\XamlSaveStateFile.xml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.exe
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.pdb
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\ResourceHandlingTask.state
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\priconfig.xml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\priconfig.xml.intermediate
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\layout.resfiles
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\layout.resfiles.intermediate
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\resources.resfiles
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\resources.resfiles.intermediate
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\pri.resfiles
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\pri.resfiles.intermediate
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\qualifiers.txt
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\qualifiers.txt.intermediate
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\ProjectArchitectures.txt
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\reasonpage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\MailForWindowsStore.dll
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\MailForWindowsStore.xml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\ApplicationInsights.config
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\App.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\contactus.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Developerlogin.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Doctorlogin.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\email.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Facilitatorlogin.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\helppage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\homepage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\loginas.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\loginoptions.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\MainPage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\mainpage1.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Patientlogin.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\patientprofile.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\patientside.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\reason.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\reasonpage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\settingspage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\tipspage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.xr.xml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.exe
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.pdb
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\resources.pri
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\AppxManifest.xml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Core\AppxManifest.xml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Core\heal_n_fun.exe
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.build.appxrecipe
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.CSharp.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Core.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Windows.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.Linq.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.Serialization.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.AppContext.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Immutable.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Specialized.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Data.Common.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.Compression.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\ClrCompression.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.FileSystem.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Expressions.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Parallel.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Queryable.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Http.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Primitives.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Requests.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Sockets.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ObjectModel.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.Networking.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.Uri.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Context.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Handles.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Security.Claims.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Security.Principal.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Timer.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XDocument.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\MailForWindowsStore.xml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.csprojResolveAssemblyReference.cache
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.g.i.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.xaml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.xbf
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\XamlSaveStateFile.xml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.exe
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.pdb
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\ResourceHandlingTask.state
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.csproj.GenerateResource.Cache
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\priconfig.xml
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\priconfig.xml.intermediate
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\layout.resfiles
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\layout.resfiles.intermediate
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\resources.resfiles
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\resources.resfiles.intermediate
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\pri.resfiles
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\pri.resfiles.intermediate
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\qualifiers.txt
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\qualifiers.txt.intermediate
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\[WORK] Microsoft\Repos\Cureotour\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\ProjectArchitectures.txt
+=======
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Countrypage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Countrypage.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Countrypage.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Countrypage.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Countrypage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\docdetails.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\docdetails.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\docdetails.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\docdetails.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\docdetails.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\workflowpage.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\workflowpage.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\workflowpage.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\workflowpage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\workflowpage.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\facilitatormode.xbf
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\facilitatormode.g.i.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\facilitatormode.g.cs
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\facilitatormode.xaml
+F:\GIT_ORG\test\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\facilitatormode.xbf
+>>>>>>> 27371466c636382ffc3e7339c1e1c93d38164f6d
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\ApplicationInsights.config
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\App.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\contactus.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Countrypage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Developerlogin.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\docdetails.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Doctorlogin.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\email.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Facilitatorlogin.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\facilitatormode.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\helppage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\homepage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\loginas.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\loginoptions.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\MainPage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\mainpage1.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Patientlogin.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\patientprofile.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\patientside.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\reason.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\reasonpage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\settingspage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\tipspage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\workflowpage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.xr.xml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.exe
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.pdb
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\resources.pri
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\AppxManifest.xml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Core\heal_n_fun.exe
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\heal_n_fun.build.appxrecipe
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Core.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Windows.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.AppContext.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Data.Common.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\ClrCompression.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Http.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\MailForWindowsStore.dll
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\bin\x86\Debug\MailForWindowsStore.xml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.csprojResolveAssemblyReference.cache
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Countrypage.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Countrypage.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\docdetails.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\docdetails.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\facilitatormode.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\facilitatormode.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\workflowpage.g.i.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\workflowpage.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Countrypage.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\docdetails.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\facilitatormode.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\workflowpage.xaml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\App.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\contactus.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Countrypage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Developerlogin.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\docdetails.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Doctorlogin.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\email.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Facilitatorlogin.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MainPage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\facilitatormode.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\helppage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\homepage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginas.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\loginoptions.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\mainpage1.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\Patientlogin.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientprofile.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\patientside.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reason.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\reasonpage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\settingspage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\tipspage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\workflowpage.xbf
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.exe
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.pdb
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\heal_n_fun.csproj.GenerateResource.Cache
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\priconfig.xml
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\layout.resfiles
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\resources.resfiles
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\pri.resfiles
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\qualifiers.txt
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\avinash g kori\Desktop\heal-n-fun\heal_n_fun\heal_n_fun\obj\x86\Debug\ProjectArchitectures.txt
