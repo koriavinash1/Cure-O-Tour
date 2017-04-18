@@ -26,18 +26,18 @@ gives you pretty accurate details about the institutions along with their histor
 provide.
 
 <h3>Why an app?</h3>
-+ One of the many things that are important when planning a medical tour is discovery of new
+ One of the many things that are important when planning a medical tour is discovery of new
 destinations. The app will help users in searching for the best place for their treatment.<br>
 + Another important factor, or rather the main thing why medical tours occur is low cost. The app
 helps by estimating the cost for treatment.<br>
 + Patients can have many flows for organizing the medical tour. Thus there can be scenarios such
 as:<br>
-    ++ Patient him/herself managing the tour independently,<br>
-    ++ Patient contacting a facilitator and the facilitator manages everything,<br>
-    ++ The facilitator facilitates through some other facilitators/agents,<br>
-    ++ Patient independently approaches the concerned doctor/hospital directly and leaves the
+    1. Patient him/herself managing the tour independently,<br>
+    2. Patient contacting a facilitator and the facilitator manages everything,<br>
+    3. The facilitator facilitates through some other facilitators/agents,<br>
+    4. Patient independently approaches the concerned doctor/hospital directly and leaves the
         managing of the tourism part upon the facilitator,<br>
-    ++ Patient prioritizing only the medical part with no interest of tourism
+    5. Patient prioritizing only the medical part with no interest of tourism
         And so on.<br>
 
 + An app will help the patient to organize the medical tour through one or many such flows.
