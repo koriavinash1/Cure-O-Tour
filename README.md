@@ -28,6 +28,7 @@ provide.
 <h3>Why an app?</h3>
  One of the many things that are important when planning a medical tour is discovery of new
 destinations. The app will help users in searching for the best place for their treatment.<br>
+
 + Another important factor, or rather the main thing why medical tours occur is low cost. The app helps by estimating the cost for treatment.<br>
 
 + Patients can have many flows for organizing the medical tour. Thus there can be scenarios such as:<br>
@@ -58,10 +59,12 @@ destinations. The app will help users in searching for the best place for their 
 
 + Giving health tips for a healthy lifestyle.<br>
 
+
 + Has a tourism guide if you want to have some tourism post treatment.<br>
 
 
 <h3>Working of the app:</h3>
+
 + The large database of hospitals and recovery centres is stored in Azure with properties such as types of treatment offered, location, cost of treatment etc.<br>
 
 + Patient details and medical reports are also stored in Azure and can be shared with the doctors in the hospital which the patients are planning to visit.<br>
