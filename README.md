@@ -26,33 +26,33 @@ gives you pretty accurate details about the institutions along with their histor
 provide.
 
 <h3>Why an app?</h3>
-* One of the many things that are important when planning a medical tour is discovery of new
++ One of the many things that are important when planning a medical tour is discovery of new
 destinations. The app will help users in searching for the best place for their treatment.<br>
-* Another important factor, or rather the main thing why medical tours occur is low cost. The app
++ Another important factor, or rather the main thing why medical tours occur is low cost. The app
 helps by estimating the cost for treatment.<br>
-* Patients can have many flows for organizing the medical tour. Thus there can be scenarios such
++ Patients can have many flows for organizing the medical tour. Thus there can be scenarios such
 as:<br>
-    * Patient him/herself managing the tour independently,<br>
-    * Patient contacting a facilitator and the facilitator manages everything,<br>
-    * The facilitator facilitates through some other facilitators/agents,<br>
-    * Patient independently approaches the concerned doctor/hospital directly and leaves the
+    ++ Patient him/herself managing the tour independently,<br>
+    ++ Patient contacting a facilitator and the facilitator manages everything,<br>
+    ++ The facilitator facilitates through some other facilitators/agents,<br>
+    ++ Patient independently approaches the concerned doctor/hospital directly and leaves the
         managing of the tourism part upon the facilitator,<br>
-    * Patient prioritizing only the medical part with no interest of tourism
+    ++ Patient prioritizing only the medical part with no interest of tourism
         And so on.<br>
 
-* An app will help the patient to organize the medical tour through one or many such flows.
++ An app will help the patient to organize the medical tour through one or many such flows.
 <h3>What does the app do?</h3>
-* Discovery of hospitals and recovery centres.<br>
-* Connecting with doctors and sharing your previous medical details and records, thereby
++ Discovery of hospitals and recovery centres.<br>
++ Connecting with doctors and sharing your previous medical details and records, thereby
 providing info regarding the patient’s ailments.<br>
-* Booking of appointments and keeping a track of them.<br>
-* Providing you a range of facilitators out there to help you with medical tourism.<br>
-* Giving health tips for a healthy lifestyle.<br>
-* Has a tourism guide if you want to have some tourism post treatment.<br>
++ Booking of appointments and keeping a track of them.<br>
++ Providing you a range of facilitators out there to help you with medical tourism.<br>
++ Giving health tips for a healthy lifestyle.<br>
++ Has a tourism guide if you want to have some tourism post treatment.<br>
 
 <h3>Working of the app:</h3>
-* The large database of hospitals and recovery centres is stored in Azure with properties such as
++ The large database of hospitals and recovery centres is stored in Azure with properties such as
 types of treatment offered, location, cost of treatment etc.<br>
-* Patient details and medical reports are also stored in Azure and can be shared with the doctors in
++ Patient details and medical reports are also stored in Azure and can be shared with the doctors in
 the hospital which the patients are planning to visit.<br>
-* Users have to select their reason for medical tourism and workflow when they log in.<br>
++ Users have to select their reason for medical tourism and workflow when they log in.<br>
